@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EncryptAndDecrypt.UI/1.0.0": {
+        "dependencies": {
+          "EncryptionAndDecryption.BLL": "1.0.0"
+        },
+        "runtime": {
+          "EncryptAndDecrypt.UI.dll": {}
+        }
+      },
+      "EncryptionAndDecryption.BLL/1.0.0": {
+        "dependencies": {
+          "EncryptionAndDecryption.Data": "1.0.0"
+        },
+        "runtime": {
+          "EncryptionAndDecryption.BLL.dll": {}
+        }
+      },
+      "EncryptionAndDecryption.Data/1.0.0": {
+        "runtime": {
+          "EncryptionAndDecryption.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EncryptAndDecrypt.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EncryptionAndDecryption.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EncryptionAndDecryption.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

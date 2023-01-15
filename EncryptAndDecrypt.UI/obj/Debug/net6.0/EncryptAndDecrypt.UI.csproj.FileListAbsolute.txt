@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\bin\Debug\net6.0\EncryptAndDecrypt.UI.deps.json
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\bin\Debug\net6.0\EncryptAndDecrypt.UI.dll
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\bin\Debug\net6.0\EncryptAndDecrypt.UI.pdb
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\bin\Debug\net6.0\EncryptionAndDecryption.BLL.dll
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\bin\Debug\net6.0\EncryptionAndDecryption.Data.dll
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\bin\Debug\net6.0\EncryptionAndDecryption.BLL.pdb
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\bin\Debug\net6.0\EncryptionAndDecryption.Data.pdb
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.UI.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.UI.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.UI.AssemblyInfo.cs
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.UI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.UI.csproj.CopyComplete
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.UI.dll
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\refint\EncryptAndDecrypt.UI.dll
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.UI.pdb
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\ref\EncryptAndDecrypt.UI.dll

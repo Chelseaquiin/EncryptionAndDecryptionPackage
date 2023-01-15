@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\bin\Debug\net6.0\EncryptAndDecrypt.deps.json
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\bin\Debug\net6.0\EncryptAndDecrypt.dll
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\bin\Debug\net6.0\EncryptAndDecrypt.pdb
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.AssemblyInfo.cs
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.dll
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\refint\EncryptAndDecrypt.dll
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\EncryptAndDecrypt.pdb
+C:\Users\user\source\repos\EncryptionAndDecryption\EncryptAndDecrypt.UI\obj\Debug\net6.0\ref\EncryptAndDecrypt.dll
