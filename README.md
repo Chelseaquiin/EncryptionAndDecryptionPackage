@@ -8,8 +8,10 @@ This is a simple library with built-in encryption characters matching every lett
 
 ### **To get started?** 
 Just like every other NuGet package installation, the EncryptAndDecryptSentences package can be installed in either of these two ways:
+
 **Install using .NET CLI:** 
 - run: dotnet add package EncryptAndDecryptSentences --version 1.0.2
+
 **Install using Visual Studio:**
 - Right-click on project dependencies
 - Select manage Nuget packages
